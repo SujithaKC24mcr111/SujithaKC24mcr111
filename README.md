@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am Sujitha K C 
+
 <!--
 **SujithaKC24mcr111/SujithaKC24mcr111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
